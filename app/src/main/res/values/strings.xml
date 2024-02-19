@@ -15,8 +15,8 @@
   -->
 <resources>
     <string name="app_name">Woof</string>
-    <string name="dog_name_1">Koda</string>
-    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_1">Pepper</string>
+    <string name="dog_name_2">Pash</string>
     <string name="dog_name_3">Frankie</string>
     <string name="dog_name_4">Nox</string>
     <string name="dog_name_5">Faye</string>
